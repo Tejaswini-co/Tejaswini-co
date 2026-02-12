@@ -52,23 +52,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=tejaswini-co&theme=radical" alt="tejaswini-co" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-[![OuttaCouch](https://github-readme-stats.vercel.app/api/pin/?username=tejaswini-co&repo=OuttaCouch-Project&theme=radical)](https://github.com/Tejaswini-co/OuttaCouch-Project)
-
-</div>
-
----
-
 ### 📫 Connect with me
 
 <p align="center">
