@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejaswini</h1>
+<h1 align="center">Hi , I'm Tejaswini</h1>
 <h3 align="center">Computer Science Student | Passionate about AI & Full-Stack Development</h3>
 
 <p align="center">
@@ -7,19 +7,19 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 **Computer Science Student** passionate about technology and innovation
-- 🤖 **Currently exploring:** Artificial Intelligence and full-stack development
-- 💡 **Building:** Practical applications that solve real-world problems  
-- 📊 **Interested in:** Data analytics and AI-driven systems that improve learning and decision-making
-- 📱 **Recent Project:** [OuttaCouch](https://github.com/Tejaswini-co/OuttaCouch-Project) - A React Native social events app
-- 💬 **Ask me about:** React Native, AI/ML, Full-stack development, Mobile apps
-- ⚡ **Fun fact:** I love turning ideas into code! 
+-  **Computer Science Student** passionate about technology and innovation
+-  **Currently exploring:** Artificial Intelligence and full-stack development
+-  **Building:** Practical applications that solve real-world problems  
+-  **Interested in:** Data analytics and AI-driven systems that improve learning and decision-making
+-  **Recent Project:** [OuttaCouch](https://github.com/Tejaswini-co/OuttaCouch-Project) - A React Native social events app
+-  **Ask me about:** React Native, AI/ML, Full-stack development, Mobile apps
+-  **Fun fact:** I love turning ideas into code! 
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswini-co&show_icons=true&locale=en&theme=radical" alt="tejaswini-co" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 <p align="center">
   <a href="mailto:231210044@nitdelhi.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
