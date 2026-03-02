@@ -60,10 +60,3 @@
   <a href="https://github.com/Tejaswini-co"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">💻 Made with ❤️ by Tejaswini</p>
