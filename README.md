@@ -13,8 +13,7 @@
 -  **Currently exploring:** Artificial Intelligence and full-stack development
 -  **Building:** Practical applications that solve real-world problems  
 -  **Interested in:** Data analytics and AI-driven systems that improve learning and decision-making
--  **Recent Project:** [OuttaCouch](https://github.com/Tejaswini-co/OuttaCouch-Project) - A React Native social events app
--  **Ask me about:** React Native, AI/ML, Full-stack development, Mobile apps
+-  **Ask me about:** React Native, AI/ML, Full-stack development, Mobile apps.
 -  **Fun fact:** I love turning ideas into code! 
 
 ---
